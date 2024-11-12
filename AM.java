@@ -4,5 +4,6 @@ public class AM {
       System.out.println("8230101");
       System.out.println("8230124");
       System.out.println("8230092");
+      System.out.println("8230030");
    }
 }
